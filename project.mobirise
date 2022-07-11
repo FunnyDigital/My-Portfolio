@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -58,7 +58,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
-    "witsec-jquery": false
+    "witsec-jquery": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -103,7 +105,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#6592e6"
+              "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323",
@@ -171,7 +173,7 @@
             ".mbr-section-title": {
               "text-size-adjust": "1",
               "size": "1px",
-              "color": "#6592e6"
+              "color": "#232323"
             },
             ".card-text": {
               "text-align": "center"
@@ -1493,7 +1495,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#6592e6"
+              "color": "#232323"
             }
           },
           "_name": "timeline3",
