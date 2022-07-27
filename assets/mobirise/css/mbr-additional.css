@@ -820,6 +820,9 @@ a {
 .cid-tbc399dD0j img,
 .cid-tbc399dD0j .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
 }
 .cid-tbc399dD0j .item:focus,
 .cid-tbc399dD0j span:focus {
@@ -828,14 +831,6 @@ a {
 .cid-tbc399dD0j .item {
   cursor: pointer;
   margin-bottom: 2rem;
-}
-.cid-tbc399dD0j .row {
-  margin-left: 0;
-  margin-right: 0;
-}
-.cid-tbc399dD0j .item {
-  padding: 0;
-  margin: 0;
 }
 .cid-tbc399dD0j .item-wrapper {
   position: relative;
