@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins-Regular';
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins-Regular';
   font-size: 2.8rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 3.5rem;
 }
 .display-4 {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins-Regular';
   font-size: 1rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.25rem;
 }
 .display-5 {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins-Regular';
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins-Regular';
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -586,7 +586,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins-Regular';
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -600,7 +600,7 @@ a:hover {
   border-color: #353535 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins-Regular';
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -2257,6 +2257,51 @@ a {
   object-fit: cover;
 }
 .cid-tbea785cSc .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-tz2yCv1KiU {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-color: #fafafa;
+}
+.cid-tz2yCv1KiU .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tz2yCv1KiU .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 767px) {
+  .cid-tz2yCv1KiU .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tz2yCv1KiU .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tz2yCv1KiU .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-tz2yCv1KiU .card-wrapper {
+  border-radius: 4px;
+  background-color: #ffffff;
+  background-color: transparent;
+}
+.cid-tz2yCv1KiU .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tz2yCv1KiU .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
 }
 .cid-tbd64LtQcD {
